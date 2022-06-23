@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap');
 
 *{
-    margin: 0 auto;
+    margin: 0;
     padding: 0;
 }
 
@@ -9,4 +9,27 @@
     color: black;
 }
 
-.select__box
+.select__box{
+    padding: 10px;
+    display: flex;
+    justify-content: start;   
+}
+
+.select__btn{
+    margin-right: 35px;
+}
+
+.select__box__text{
+    color: rgba(0,0,0,0.5);
+}
+.select__btn__reset{
+    height: 40px;
+    width: 100px;
+    border-radius: 8px;
+}
+.select__btn1{
+    display: flex;
+    align-items: flex-end;
+
+}
+
