@@ -4,32 +4,7 @@
     margin: 0 auto;
     padding: 0;
 }
-.header__icons {
-    padding-left: 50px;
-    margin-top: 35px;
-    display: flex;
-    gap: 25px;
-  }
-  .footer__icon {
-    color: var(--body);
-    transition: 0.5s;
-  }
-  .footer__icon:hover {
-    transform: scale(1.3);
-  }
-  
-  /* footer end */
-  
-  /* scroll start */
-  
-  *::-webkit-scrollbar{
-    background-color: var(--body);
-    height: 5px;
-    width: 5px;
-  }
-  *::-webkit-scrollbar-thumb{
-    background-color: var(--text);
-    border-radius: 10px;
-  }
-  
-  /* scroll end */
+
+.icon{
+    color: black;
+}
