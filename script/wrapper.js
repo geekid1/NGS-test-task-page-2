@@ -1,5 +1,5 @@
 const btnEl = document.querySelector('.btn');
-const toggleOptions = ()  {
+const toggleOptions = ();  {
     const wrapperEL =
     document.querySelector('.wrapper');
     const iconEl = btnEl.querySelector('i');
