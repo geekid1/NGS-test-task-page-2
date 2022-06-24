@@ -33,3 +33,15 @@
 
 }
 
+.img__text__box{
+    display: flex;
+    justify-content: space-between;
+}
+
+.page__box{
+    margin: 15px;
+    display: flex;
+    justify-content: center;
+    font-family: "roboto";
+}
+
