@@ -43,8 +43,10 @@
     display: flex;
     justify-content: center;
     font-family: "roboto";
+    padding: 15px;
 }
 
 .page-link{
     border: none;
+    margin-right: 10px;
 }
