@@ -9,11 +9,13 @@
     color: black;
 }
 
+
 .select__box{
     padding: 10px;
     display: flex;
-    justify-content: start;   
+    justify-content: start;
 }
+
 
 .select__btn{
     margin-right: 35px;
